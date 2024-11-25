@@ -1,5 +1,24 @@
-Hi Im Nico. Im 14 years old and Learning how to code. 
-<br>
-Some of my Projects are found here, others on glitch.com
+# Hi there, I'm Nico 👋
 
-Most Of my games are Found [here](https://games-hub.glitch.me/):
+I'm a 14-year-old coder, passionate about learning and creating amazing projects. Here you can find some of my work. Check out more of my projects on [Glitch](https://games-hub.glitch.me/).
+
+## 🔭 Projects
+- [Games-Hub](https://games-hub.glitch.com/)
+- [Kotzapp Chat-Service](https://kotzapp.glitch.me)
+- [Project 3](#)
+
+## 🌱 I'm currently learning
+- JavaScript
+- Python
+- HTML & CSS
+
+## Teams 
+
+- [Team-Löwenrot](
+
+## 📫 How to reach me
+- [Email(School)](mailto:nico.scholl@loewenrot.de)
+
+
+## ⚡ Fun fact
+I love playing video games and coding up new game ideas!
