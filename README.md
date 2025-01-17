@@ -16,6 +16,7 @@ I'm a 14-year-old coder, passionate about learning and creating amazing projects
 
 - Team-Löwenrot:
     [Github]([https://kotzapp.glitch.me](https://github.com/orgs/Team-Loewenrot/))
+  
     [Glitch](https://glitch.com/@team-loewenrot)
 
 ## 📫 How to reach me
