@@ -26,3 +26,7 @@ I'm a 14-year-old coder, passionate about learning and creating amazing projects
 
 ## ⚡ Fun fact
 I love playing video games and coding up new game ideas!
+
+
+## My Stats
+[![Nictrix23's GitHub stats](https://github-readme-stats.vercel.app/api?username=nictrixx23-2)](https://github.com/anuraghazra/github-readme-stats)
