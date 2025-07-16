@@ -33,4 +33,5 @@ I love playing video games and coding up new game ideas!
 
 ![NicTrixx23-2's Stats](https://github-readme-stats.vercel.app/api?username=NicTrixx23-2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Countdown](https://getkairo.com/embed-local?id=a025dae9-3a11-41c5-9a29-e993f249982a&local=true&title=Days%20til%20my%20Birthday&type=BlockProgress&color=red&size=2&faceType=default&darkMode=true&progressStart=1752646137322&progressEnd=1758607740000&counters=%5B%5D)
+![](https://komarev.com/ghpvc/?username=NicTrixx23-2&color=red)
+
