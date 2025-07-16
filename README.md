@@ -29,6 +29,6 @@ I love playing video games and coding up new game ideas!
 
 
 ## My Stats!
-[NicTrixx23-2's Stats](https://github-readme-stats.vercel.app/api?username=NicTrixx23-2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![NicTrixx23-2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicTrixx23-2&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![NicTrixx23-2's Stats](https://github-readme-stats.vercel.app/api?username=NicTrixx23-2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
