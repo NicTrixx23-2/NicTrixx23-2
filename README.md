@@ -35,9 +35,4 @@ I love playing video games and coding up new game ideas!
 
 ![](https://komarev.com/ghpvc/?username=NicTrixx23-2&color=red)
 
-
-
-## Test
-
-
 ![Wetter](https://weather-github-readme.onrender.com/api/weather?location=Ketsch)
