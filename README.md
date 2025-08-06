@@ -36,3 +36,5 @@ I love playing video games and coding up new game ideas!
 ![](https://komarev.com/ghpvc/?username=NicTrixx23-2&color=red)
 
 ![Wetter](https://weather-github-readme.onrender.com/api/weather?location=Ketsch)
+
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
