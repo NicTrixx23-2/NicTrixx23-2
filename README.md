@@ -1,6 +1,6 @@
 # Hi there, I'm Nico 👋
 
-I'm a 14-year-old coder, passionate about learning and creating amazing projects. Here you can find some of my work. Check out more of my projects on [Glitch](https://games-hub.glitch.me/).
+I'm a 15-year-old coder, passionate about learning and creating amazing projects. Here you can find some of my work. Check out more of my projects on [Glitch](https://games-hub.glitch.me/).
 
 ## 🔭 Projects
 - [Games-Hub](https://games-hub.glitch.com/)
