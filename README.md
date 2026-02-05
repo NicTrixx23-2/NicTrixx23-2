@@ -35,11 +35,5 @@ I love playing video games and coding up new game ideas!
 <h1 align="center" style="font-size: 20px; font-weight: bolder;">
 My Stats
   <br /><br />
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="me"/></a>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="me" width=100%/></a>
 </h1>
-
-![](https://getkairo.com/embed-local?id=a07ed2b6-983d-405f-bb23-ee8e5cb7512f&local=true&title=Block%20title&type=BlockProgress&color=blue&size=2&faceType=default&progressStart=1735686000000&progressEnd=1767222000000&counters=%5B%7B%22title%22%3A%22S%22%2C%22type%22%3A%22number%22%2C%22day%22%3A0%2C%22icon%22%3A%22default%22%7D%5D)
-
-## Test
-
-![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
