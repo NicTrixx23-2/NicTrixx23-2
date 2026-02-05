@@ -11,6 +11,11 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 - Python
 - HTML & CSS
 
+My Current Achievements:
+
+[x] Im doing an Exchange Year
+
+
 ## Teams 
 
 - Team-Löwenrot:
