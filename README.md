@@ -27,13 +27,6 @@ I love playing video games and coding up new game ideas!
 
 
 ## My Stats!
-![NicTrixx23-2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicTrixx23-2&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![NicTrixx23-2's Stats](https://github-readme-stats.vercel.app/api?username=NicTrixx23-2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![](https://komarev.com/ghpvc/?username=NicTrixx23-2&color=red)
-
-[![NicTrixx23-2s's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicTrixx23-2)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://getkairo.com/embed-local?id=a07ed2b6-983d-405f-bb23-ee8e5cb7512f&local=true&title=Block%20title&type=BlockProgress&color=blue&size=2&faceType=default&progressStart=1735686000000&progressEnd=1767222000000&counters=%5B%7B%22title%22%3A%22S%22%2C%22type%22%3A%22number%22%2C%22day%22%3A0%2C%22icon%22%3A%22default%22%7D%5D)
 
