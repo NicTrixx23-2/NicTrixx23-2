@@ -13,7 +13,8 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 
 ## My Current Achievements:
 
-([x]) Im doing an Exchange Year
+[x] Im doing an Exchange Year 
+
 
 
 ## Teams 
