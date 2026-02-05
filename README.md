@@ -28,9 +28,6 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 - [Email(School)](mailto:nico.scholl@loewenrot.de)
 
 
-## ⚡ Fun fact
-I love playing video games and coding up new game ideas!
-
 
 <h1 align="center" style="font-size: 20px; font-weight: bolder;">
 My Stats
