@@ -32,7 +32,7 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 I love playing video games and coding up new game ideas!
 
 
-<h1 align="center">
+<h1 align="center" style="font-size: 20px; font-weight: bolder;">
 My Stats
   <br /><br />
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="me"/></a>
