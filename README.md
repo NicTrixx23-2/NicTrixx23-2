@@ -6,10 +6,6 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 - [Games-Hub](https://games-hub.glitch.com/) (Currently Moving since the Glitch Shutdown)
 - [Kotzapp Chat-Service](https://kotzapp.glitch.me) (Currently Moving since the Glitch Shutdown)
 
-## 🌱 I'm currently learning
-- JavaScript
-- Python
-- HTML & CSS
 
 <h1 align="center" style="font-weight: bolder; display: flex; flex-wrap: wrap; gap: 16px;">
 <p1 font-size: 20px;>My Programming Languages:</p1>
