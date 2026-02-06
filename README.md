@@ -60,7 +60,6 @@ Contribution
 
 
 ## 📫 How to reach me
-- [Email(School)](mailto:nico.scholl@loewenrot.de)
 
 <p1 align="center" style="font-size: 20px; font-weight: bolder;">
 <br>
