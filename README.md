@@ -14,6 +14,26 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 <h1 align="center" style="font-size: 20px; font-weight: bolder; display: flex; flex-wrap: wrap; gap: 16px;">
 My Programming Languages:
   <br /><br />
+<table style="border: 0px;">
+  <tr>
+    <th><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></th>
+    <th><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" ></th>
+    <th><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></th>
+    <th><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" ></th>
+    <th><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" ></th>
+    <th><img src="https://img.shields.io/badge/electron-%23000000.svg?style=for-the-badge&logo=electron&logoColor=%2366DBFF" ></th>
+  </tr>
+  <tr>
+    <td>I Love HTML</td>
+    <td>I Love CSS</td>
+    <td>I Like JS</td>
+    <td>I Like JS</td>
+    <td>I Love MD</td>
+    <td>I Enjoy Electron</td>
+  </tr>
+</table>
+
+  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" >
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
