@@ -6,9 +6,15 @@
 </p>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Projects
+  <div style="display: flex; flex-wrap: wrap;">
+    <a href="https://games-hub-9nqi.onrender.com">Games-Hub</a>
+  </div>
+</h1>
+
 - [Games-Hub](https://games-hub.glitch.com/) (Currently Moving since the Glitch Shutdown)
 - [Kotzapp Chat-Service](https://kotzapp.glitch.me) (Currently Moving since the Glitch Shutdown)
+
 
 
 <h1 align="center" style="font-weight: bolder; display: flex; flex-wrap: wrap; gap: 16px; font-family: "Playfair Script", cursive;
