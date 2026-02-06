@@ -50,13 +50,17 @@ Contribution
 </h1>
 
 
-## Teams 
+## Team
+<p1 align="center" style="font-size: 20px; font-weight: bolder;">
+<br>
+  <table style="border: 0px; font-size: 10px;">
+    <tr>
+      <th><img src="https://github.com/NicTrixx23-2/NicTrixx23-2/blob/main/public/TL.svg" style="border: 2px; border-radius: 10px;"></th>
+      <th href="https://github.com/orgs/Team-Loewenrot/">Team Löwenrot</th>
+    </tr>
+  </table>
+</p1>
 
-- Team-Löwenrot:
-  
-    [Github](https://github.com/orgs/Team-Loewenrot/)
-    [IMG](https://github.com/NicTrixx23-2/NicTrixx23-2/blob/main/public/TL.svg)
-  
 
 ## 📫 How to reach me
 - [Email(School)](mailto:nico.scholl@loewenrot.de)
