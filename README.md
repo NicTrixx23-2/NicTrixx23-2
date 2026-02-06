@@ -13,7 +13,7 @@
   </div>
 
 
-- [Kotzapp Chat-Service](https://kotzapp.glitch.me) (Currently Moving since the Glitch Shutdown)
+
 
 
 
