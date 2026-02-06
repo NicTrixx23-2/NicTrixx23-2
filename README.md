@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Projects
-  <div style="display: flex; flex-wrap: wrap; font-size:20px">
+  <div style="display: flex; flex-wrap: wrap; font-size: 20px;">
     <a href="https://games-hub-9nqi.onrender.com">Games-Hub</a>
   </div>
 </h1>
