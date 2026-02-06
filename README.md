@@ -56,7 +56,7 @@ Contribution
   <table style="border: 0; font-size: 10px; border-collapse: collapse;">
     <tr>
       <th style="border: 0;"><img src="https://github.com/NicTrixx23-2/NicTrixx23-2/blob/b76dbe2e3e8100aba2a263b8e29e762fd34d4d80/imgs/TL.svg" style="border: 2px; border-radius: 10px;" height=50px width=50px></th>
-      <th href="https://github.com/orgs/Team-Loewenrot/" style="border: 0;">Team Löwenrot</th>
+      <th style="border: 0;"><a href="https://github.com/orgs/Team-Loewenrot/" style="color: blue;">Team Löwenrot</a></th>
     </tr>
   </table>
 </p1>
