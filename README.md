@@ -41,7 +41,7 @@
     <td>I Love HTML</td>
     <td>I Love CSS</td>
     <td>I Like JS</td>
-    <td>I Like JS</td>
+    <td>I Like Python</td>
     <td>I Love MD</td>
     <td>I Enjoy Electron</td>
   </tr>
@@ -54,15 +54,6 @@ My Hackatime Stats
   <br /><br />
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="me" width=100%></a>
 </h1>
-
-<h1 align="center" style="font-size: 20px; font-weight: bolder;">
-My Hackatime Stats
-  <br /><br />
-  <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=NicTrixx23-2&show_icons=true&theme=darcula&hide_border=true" width=100%></a>
-</h1>
-
-
 
 <h1 align="center" style="font-size: 20px; font-weight: bolder;">
 Contribution
