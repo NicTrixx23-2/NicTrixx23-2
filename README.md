@@ -11,7 +11,7 @@
     <a href="https://games-hub-9nqi.onrender.com" style="font-weight: bolder">Games-Hub</a>
     <br>
     <a href="#" style="font-weight: bolder">Kotzapp Chat Service*</a>
-    <br>
+    <br><br><br><br><br><br>
     <a>*Currently Moving Since Glitch Hosting Shut Down</a>
   </div>
 
@@ -88,3 +88,13 @@ Contribution
     </tr>
   </table>
 </p1>
+
+## TEST
+
+<span style="
+background: linear-gradient(90deg, red, yellow, lime, cyan, blue, magenta);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 700;">
+Static Rainbow Text
+</span>
