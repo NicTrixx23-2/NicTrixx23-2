@@ -23,8 +23,6 @@
 <h1 align="center" style="font-weight: bolder; display: flex; flex-wrap: wrap; gap: 16px; font-family: "Playfair Script", cursive;
 ">
 <p1 style="font-size: 20px; font-family: "Segoe UI", sans-serif;">My Programming Languages:</p1>
-
-  <br /><br />
 </h1>
 
 <p align="center">
@@ -51,7 +49,7 @@
 
 <h1 align="center" style="font-size: 20px; font-weight: bolder;">
 My Hackatime Stats
-  <br /><br />
+  <br>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="me" width=100%></a>
 </h1>
 
