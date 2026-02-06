@@ -1,6 +1,8 @@
 
 # Hi there, I'm Nico 👋
-
+<p1 align="center">
+<a>I'm a 15-year-old coder, passionate about learning and creating amazing projects. Here you can find some of my work.</a>
+</p1>
 I'm a 15-year-old coder, passionate about learning and creating amazing projects. Here you can find some of my work.
 
 ## 🔭 Projects
