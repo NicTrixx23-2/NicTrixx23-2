@@ -7,8 +7,8 @@
 
 
 <h1 align="center">Projects</h1>
-<div style="display: flex; flex-wrap: wrap; font-size: 20px; font-weight: bolder" align="center">
-    <a href="https://games-hub-9nqi.onrender.com">Games-Hub</a>
+<div style="display: flex; flex-wrap: wrap; font-size: 20px;" align="center">
+    <a href="https://games-hub-9nqi.onrender.com" style="font-weight: bolder">Games-Hub</a>
   </div>
 
 - [Games-Hub](https://games-hub.glitch.com/) (Currently Moving since the Glitch Shutdown)
