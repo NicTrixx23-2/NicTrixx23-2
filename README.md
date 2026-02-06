@@ -53,7 +53,7 @@ Contribution
 ## Team
 <p1 align="center" style="font-size: 20px; font-weight: bolder;">
 <br>
-  <table style="border: 0px; font-size: 10px;">
+  <table style="border: 0; font-size: 10px;">
     <tr>
       <th><img src="https://github.com/NicTrixx23-2/NicTrixx23-2/blob/b76dbe2e3e8100aba2a263b8e29e762fd34d4d80/imgs/TL.svg" style="border: 2px; border-radius: 10px;" height=50px width=50px></th>
       <th href="https://github.com/orgs/Team-Loewenrot/">Team Löwenrot</th>
