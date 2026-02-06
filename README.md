@@ -10,7 +10,9 @@
 <div style="display: flex; flex-wrap: wrap; font-size: 20px;" align="center">
     <a href="https://games-hub-9nqi.onrender.com" style="font-weight: bolder">Games-Hub</a>
     <br>
-    <a href="#" style="font-weight: bolder">Kotzapp Chat Service(Currently Moving Since Glitch Hosting Shut Down)</a>
+    <a href="#" style="font-weight: bolder">Kotzapp Chat Service*</a>
+    <br>
+    <a>*Currently Moving Since Glitch Hosting Shut Down</a>
   </div>
 
 
