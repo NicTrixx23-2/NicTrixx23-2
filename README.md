@@ -20,10 +20,15 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-%23000000.svg?style=for-the-badge&logo=electron&logoColor=%2366DBFF) 
 
-<h1 align="center" style="font-size: 20px; font-weight: bolder;">
-My Hackatime Stats
+<h1 align="center" style="font-size: 20px; font-weight: bolder; display: flex; flex-wrap: wrap;">
+My Programming Languages1:
   <br /><br />
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2197&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="me" width=100></a>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/electron-%23000000.svg?style=for-the-badge&logo=electron&logoColor=%2366DBFF">
 </h1>
 
 
