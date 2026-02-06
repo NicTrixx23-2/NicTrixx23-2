@@ -55,6 +55,7 @@ Contribution
 - Team-Löwenrot:
   
     [Github](https://github.com/orgs/Team-Loewenrot/)
+    [IMG](https://github.com/NicTrixx23-2/NicTrixx23-2/blob/main/public/TL.svg)
   
 
 ## 📫 How to reach me
