@@ -47,6 +47,21 @@
 </p>
 
 
+<h1 align="center">My Fav Browser</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white">
+</p>
+
+<img src="[https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white">
+
+<h1 align="center">My Fav Consoles</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white">
+<img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+<img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white">
+<img src="https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white">
+</p>
+
 <h1 align="center" style="font-size: 20px; font-weight: bolder;">
 My Hackatime Stats
   <br>
