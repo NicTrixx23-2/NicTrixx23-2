@@ -1,6 +1,6 @@
 
 # Hi there, I'm Nico 👋
-<p style="text-align: center;">
+<p align="center "style="text-align: center;">
   I'm a 15-year-old coder, passionate about learning and creating amazing projects.
   Here you can find some of my work.
 </p>
