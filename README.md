@@ -9,9 +9,10 @@
 <h1 align="center">Projects</h1>
 <div style="display: flex; flex-wrap: wrap; font-size: 20px;" align="center">
     <a href="https://games-hub-9nqi.onrender.com" style="font-weight: bolder">Games-Hub</a>
+    <a href="#" style="font-weight: bolder">Kotzapp Chat Service(Currently Moving Since Glitch Hosting Shut Down)</a>
   </div>
 
-- [Games-Hub](https://games-hub.glitch.com/) (Currently Moving since the Glitch Shutdown)
+
 - [Kotzapp Chat-Service](https://kotzapp.glitch.me) (Currently Moving since the Glitch Shutdown)
 
 
