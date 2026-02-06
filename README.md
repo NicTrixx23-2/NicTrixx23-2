@@ -9,7 +9,8 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 
 <h1 align="center" style="font-weight: bolder; display: flex; flex-wrap: wrap; gap: 16px; font-family: "Playfair Script", cursive;
 ">
-<p1 font-size: 20px;>My Programming Languages:</p1>
+<p1 style="font-size: 20px; font-family: "Playfair Script", cursive;
+";>My Programming Languages:</p1>
   <br /><br />
 <table style="border: 0px; font-size: 10px;">
   <tr>
