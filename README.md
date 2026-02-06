@@ -11,7 +11,7 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 - Python
 - HTML & CSS
 
-<h1 align="center" style="font-size: 20px; font-weight: bolder; display: flex; flex-wrap: wrap;">
+<h1 align="center" style="font-size: 20px; font-weight: bolder; display: flex; flex-wrap: wrap; gap: 16px;">
 My Programming Languages:
   <br /><br />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
