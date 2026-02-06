@@ -6,8 +6,7 @@
 </p>
 
 
-
-## 🔭 Projects
+<h1 align="center">Projects</h1>
 - [Games-Hub](https://games-hub.glitch.com/) (Currently Moving since the Glitch Shutdown)
 - [Kotzapp Chat-Service](https://kotzapp.glitch.me) (Currently Moving since the Glitch Shutdown)
 
