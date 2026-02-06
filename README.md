@@ -23,7 +23,10 @@
 <p1 style="font-size: 20px; font-family: "Segoe UI", sans-serif;">My Programming Languages:</p1>
 
   <br /><br />
-<table style="border: 0px; font-size: 10px;">
+</h1>
+
+<p align="center">
+  <table style="border: 0px; font-size: 10px;">
   <tr>
     <th><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border:1px; border-radius: 5px"></th>
     <th><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="border:1px; border-radius: 5px"></th>
@@ -41,7 +44,7 @@
     <td>I Enjoy Electron</td>
   </tr>
 </table>
-</h1>
+</p>
 
 
 <h1 align="center" style="font-size: 20px; font-weight: bolder;">
