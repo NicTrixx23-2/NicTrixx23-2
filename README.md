@@ -26,7 +26,7 @@
 </h1>
 
 <p align="center">
-  <table style="border: 0px; font-size: 10px;">
+  <table style="border: 0px; font-size: 10px;" align="center">
   <tr>
     <th><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border:1px; border-radius: 5px"></th>
     <th><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="border:1px; border-radius: 5px"></th>
