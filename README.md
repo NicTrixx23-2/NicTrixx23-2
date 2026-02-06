@@ -15,7 +15,9 @@ I'm a 15-year-old coder, passionate about learning and creating amazing projects
 
 [x] Im doing an Exchange Year 
 
+## Contribution
 
+![snake gif](https://github.com/Lumethra/Lumethra/blob/main/public/contribution.svg)
 
 ## Teams 
 
