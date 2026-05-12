@@ -103,3 +103,4 @@ Contribution
 
 ![Time](https://img.shields.io/badge/time-Europe%2FBerlin-blue)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/713690566080069632?theme=dark&borderRadius=15)](https://discord.com/users/713690566080069632)
